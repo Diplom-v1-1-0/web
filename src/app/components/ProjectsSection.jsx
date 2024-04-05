@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "App Home Screen",
-    description: "Project 1 description",
+    description: "App руу ороод харагдах хэсгийн код",
     image: "/images/projects/1.jpg",
     tag: ["Бүгд", "Үсэг сурж байга хэсэг"],
     gitUrl: "/",
@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "Үсгийн хэсэг",
-    description: "Project 2 description",
+    description: "Үсгийн screen-ний эхлэх хэсгийн код",
     image: "/images/projects/2.jpg",
     tag: ["Бүгд", "Үсэг сурж байга хэсэг"],
     gitUrl: "/",
@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "Үсэг хэсэг",
-    description: "Project 3 description",
+    description: "Үсгийн screen-ний дуусах хэсгийн код",
     image: "/images/projects/3.jpg",
     tag: ["Бүгд", "Үсэг сурж байга хэсэг"],
     gitUrl: "/",
@@ -35,7 +35,7 @@ const projectsData = [
   {
     id: 4,
     title: "Үсэг нь дээр дараад харагдах хэсэг",
-    description: "Project 4 description",
+    description: "Үсэг дараад дараах өөрчлөлт",
     image: "/images/projects/4.jpg",
     tag: ["Бүгд", "Тоглоом тоголж байгаа хэсэг"],
     gitUrl: "/",
@@ -44,7 +44,7 @@ const projectsData = [
   {
     id: 5,
     title: "Амьтан нэр болон дуу чимээгээр таньж байгаа хэсэг",
-    description: "Authentication and CRUD operations",
+    description: "Амьтан болон шувуу ний дуу чимээ нэр зургаар таних хэсэг",
     image: "/images/projects/5.jpg",
     tag: ["Бүгд", "Үсэг сурж байга хэсэг"],
     gitUrl: "/",
@@ -53,7 +53,7 @@ const projectsData = [
   {
     id: 6,
     title: "Тоглоом болон асуулт хариултын хэсэг",
-    description: "Project 5 description",
+    description: "Хүүхдүүд сурсан мэдлэгээ бататгана хариулна. Уг апп маань сургуулийн өмнөх боловсрол болон 1 ангийханд зориулсан тул эцэг эхтэйгээ хамтдаа сурах юм",
     image: "/images/projects/6.jpg",
     tag: ["Бүгд", "Үсэг сурж байга хэсэг"],
     gitUrl: "/",
