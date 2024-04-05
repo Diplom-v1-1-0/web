@@ -7,7 +7,7 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
+    title: "App Home Screen",
     description: "Project 1 description",
     image: "/images/projects/1.jpg",
     tag: ["Бүгд", "Үсэг сурж байга хэсэг"],
@@ -16,7 +16,7 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Potography Portfolio Website",
+    title: "Үсгийн хэсэг",
     description: "Project 2 description",
     image: "/images/projects/2.jpg",
     tag: ["Бүгд", "Үсэг сурж байга хэсэг"],
@@ -25,7 +25,7 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "E-commerce Application",
+    title: "Үсэг хэсэг",
     description: "Project 3 description",
     image: "/images/projects/3.jpg",
     tag: ["Бүгд", "Үсэг сурж байга хэсэг"],
@@ -34,7 +34,7 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "Food Ordering Application",
+    title: "Үсэг нь дээр дараад харагдах хэсэг",
     description: "Project 4 description",
     image: "/images/projects/4.jpg",
     tag: ["Бүгд", "Тоглоом тоголж байгаа хэсэг"],
@@ -43,7 +43,7 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "React Firebase Template",
+    title: "Амьтан нэр болон дуу чимээгээр таньж байгаа хэсэг",
     description: "Authentication and CRUD operations",
     image: "/images/projects/5.jpg",
     tag: ["Бүгд", "Үсэг сурж байга хэсэг"],
@@ -52,7 +52,7 @@ const projectsData = [
   },
   {
     id: 6,
-    title: "Full-stack Roadmap",
+    title: "Тоглоом болон асуулт хариултын хэсэг",
     description: "Project 5 description",
     image: "/images/projects/6.jpg",
     tag: ["Бүгд", "Үсэг сурж байга хэсэг"],
